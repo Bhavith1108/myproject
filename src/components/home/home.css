@@ -1,0 +1,17 @@
+h1{
+    text-align:center;
+}
+
+
+.container{
+    background-color:rgb(185, 134, 67);
+    background-size: cover;
+    height: 100vh;
+    margin-top:40px;
+    margin:0px;
+    overflow: hidden;
+    padding:20px
+}
+dt{
+    font-weight: bold;
+}

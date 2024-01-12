@@ -1,0 +1,13 @@
+header{
+    text-align:center;
+    background-color: aquamarine;
+    overflow: auto;
+}
+.cont{
+    margin: 0px;
+}
+footer{
+    text-align:center;
+    background-color: aquamarine;
+    overflow: auto;  
+}
